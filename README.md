@@ -141,10 +141,11 @@ Serilization: (Java provides a mechanism, called object serialization where an o
 
 ## Endpoint tests
 
-- able to make difference between unit test and integration test
-- create endpoint test
-  - with the help of a mock server
-  
+- able to make difference between unit test and integration test (yes, i will explain it)
+- create endpoint test with the help of a mock server [link](https://github.com/expertneo/corsac-orientation-exam/blob/master/spacetransporter/src/test/java/com/greenfox/spacetransporter/SpacetransporterApplicationTests.java)
+     
+Unit test: (A unit test is a test written by the programmer to verify that a relatively small piece of code is doing what it is intended to do.)
+Integration test: (An integration test is done to demonstrate that different pieces of the system work together. Integration tests cover whole applications, and they require much more effort to put together. They usually require resources like database instances and hardware to be allocated for them.)
   
   # Final exam requirements
 
