@@ -36,30 +36,31 @@ The student, on their own, is able to:
      -  Instantiating and using objects [link](https://github.com/greenfox-academy/expertneo/blob/master/week-08/day1/Todo/src/main/java/com/greenfox/todoapplication/models/ToDo.java)
      -  Understanding "this" keyword (this is an alias or a name for the current instance inside the instance)
  -  Handle errors and exceptions [link](https://github.com/greenfox-academy/daily-checkout/blob/developement-jacobs/src/main/java/com/greenfox/checkout/controllers/SlackController.java)
- -  Determine the output of expressions(can do it in real time if you want)
+ -  Determine the output of expressions (can do it in real time if you want)
  -  Explain their own code
- -  Write unit tests for functions and methods [link](https://github.com/expertneo/corsac-orientation-exam/blob/master/spacetransporter/src/test/java/com/greenfox/spacetransporter/SpacetransporterApplicationTests.java)
+ -  Write unit tests for functions and methods [link for integration test](https://github.com/expertneo/corsac-orientation-exam/blob/master/spacetransporter/src/test/java/com/greenfox/spacetransporter/SpacetransporterApplicationTests.java)  
+ [link for unit test](https://github.com/greenfox-academy/daily-checkout/blob/BPappTests/src/test/java/com/greenfox/checkout/services/DateUtilTest.java)
  
  
  # Backend Orientation Exam Competencies
 
 ## Interfaces and abstract classes
 
-- usage of interfaces and abstract classes
-- understanding the difference between interfaces and abstract classes
-- understand when to use interface and when to use super class
+- usage of interfaces and abstract classes [link for abstract usage](https://github.com/greenfox-academy/expertneo/tree/master/week-06/day-2/Instruments/src/main/java/music)  [link or interface usage](https://github.com/greenfox-academy/expertneo/tree/master/week-06/day-2/Printable/src)
+- understanding the difference between interfaces and abstract classes (https://i.stack.imgur.com/pghvG.jpg)
+- understand when to use interface and when to use super class (not sure what this means.. I need some explanation)
 
 ## Queries
 
-- usage of language integrated quaries e.g. LINQ/StreamApi
-- understanding the syntax
-- able to write simple custom quaries
+- usage of language integrated quaries e.g. LINQ/StreamApi (Have never heard of this during GreenFox)
+- understanding the syntax (=.=)
+- able to write simple custom quaries [link for some of my queries](https://github.com/greenfox-academy/daily-checkout/blob/BPappTests/src/main/java/com/greenfox/checkout/repositories/CheckoutRepo.java)
 
 ## Build tool
 
-- use build tools to build and run your applications e.g. gradle/.Net CLI 
-- dependency definition
-- able to restore 3rd party library dependencies
+- use build tools to build and run your applications e.g. gradle/.Net CLI (gradle build -x test :D)
+- dependency definition [link for description] (https://docs.gradle.org/current/userguide/introduction_dependency_management.html)
+- able to restore 3rd party library dependencies [JSLACK](https://github.com/greenfox-academy/daily-checkout/blob/BPappTests/src/main/java/com/greenfox/checkout/services/SlackService.java)  [Lombok](https://github.com/greenfox-academy/expertneo/blob/master/week-11/ExamPractice/src/main/java/com/greenfox/spaceshippractice/models/Planet.java)
 
 ## 3rd party libraries
 
