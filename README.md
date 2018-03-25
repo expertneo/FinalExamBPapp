@@ -47,8 +47,8 @@ The student, on their own, is able to:
 ## Interfaces and abstract classes
 
 - usage of interfaces and abstract classes [link for abstract usage](https://github.com/greenfox-academy/expertneo/tree/master/week-06/day-2/Instruments/src/main/java/music)  [link or interface usage](https://github.com/greenfox-academy/expertneo/tree/master/week-06/day-2/Printable/src)
-- understanding the difference between interfaces and abstract classes (https://i.stack.imgur.com/pghvG.jpg)
-- understand when to use interface and when to use super class (not sure what this means.. I need some explanation)
+- understanding the difference between interfaces and abstract classes [external link](https://i.stack.imgur.com/pghvG.jpg)
+- understand when to use interface and when to use super class [Diamond problem nice explanation](https://www.journaldev.com/1775/multiple-inheritance-in-java)
 
 ## Queries
 
@@ -59,13 +59,13 @@ The student, on their own, is able to:
 ## Build tool
 
 - use build tools to build and run your applications e.g. gradle/.Net CLI (gradle build -x test :D)
-- dependency definition [link for description] (https://docs.gradle.org/current/userguide/introduction_dependency_management.html)
+- dependency definition [link for description](https://docs.gradle.org/current/userguide/introduction_dependency_management.html)
 - able to restore 3rd party library dependencies [JSLACK](https://github.com/greenfox-academy/daily-checkout/blob/BPappTests/src/main/java/com/greenfox/checkout/services/SlackService.java)  [Lombok](https://github.com/greenfox-academy/expertneo/blob/master/week-11/ExamPractice/src/main/java/com/greenfox/spaceshippractice/models/Planet.java)
 
 ## 3rd party libraries
 
-- able to add and use libraries
-- find documentation and usage examples
+- able to add and use libraries [link for injecting dependencies](https://github.com/greenfox-academy/daily-checkout/blob/BPappTests/build.gradle)
+- find documentation and usage examples [link for documentation](https://github.com/seratch/jslack)
 
 ## Backend Framework
 
