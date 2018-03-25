@@ -24,21 +24,21 @@ The student, on their own, is able to:
      -  Review other's code (OK, check [checkout repo](https://github.com/greenfox-academy/daily-checkout/))
  -  Follow indentation and coding styleguides in their code (check any code, I followed google styleguide)
  -  [Create variables and methods on a given specification](http://s2.quickmeme.com/img/cf/cf538c211f84e60777be2e390691dde58737d3378b3f16d18557ba09deeb9275.jpg)
- -  Use conditions and loops:
+ -  [Use conditions and loops:](https://github.com/expertneo/corsac-basic-exam/blob/master/Exercise2/test.java)
      -  Filtering
      -  Finding elements or index
      -  Generating lists
-     -  Checking mutiple values and counting
-     -  Maping values
+     -  Checking multiple values and counting
+     -  [Maping values](https://stackoverflow.com/questions/23213891/how-to-map-values-in-a-map-in-java-8)
  -  Use object orientation:
-     -  Create and inherit classes including fields and methods on a given specification
-     -  Understanding the difference between classes and objects
-     -  Instantiating and using objects
-     -  Understanding "this" keyword
- -  Handle errors and exceptions
- -  Determine the output of expressions
+     -  Create and inherit classes including fields and methods on a given specification [link](https://github.com/greenfox-academy/expertneo/tree/master/week-04/day-2/gardenApplication/src)
+     -  Understanding the difference between classes and objects(Once class can be called several times creating several objects..)
+     -  Instantiating and using objects [link](https://github.com/greenfox-academy/expertneo/blob/master/week-08/day1/Todo/src/main/java/com/greenfox/todoapplication/models/ToDo.java)
+     -  Understanding "this" keyword (this is an alias or a name for the current instance inside the instance)
+ -  Handle errors and exceptions [link](https://github.com/greenfox-academy/daily-checkout/blob/developement-jacobs/src/main/java/com/greenfox/checkout/controllers/SlackController.java)
+ -  Determine the output of expressions(can do it in real time if you want)
  -  Explain their own code
- -  Write unit tests for functions and methods
+ -  Write unit tests for functions and methods [link](https://github.com/expertneo/corsac-orientation-exam/blob/master/spacetransporter/src/test/java/com/greenfox/spacetransporter/SpacetransporterApplicationTests.java)
  
  
  # Backend Orientation Exam Competencies
