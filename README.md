@@ -111,27 +111,33 @@ JPA: (The Java Persistence API (JPA) is a Java application programming interface
 JDBC: (Java Database Connectivity is an application programming interface for the programming language Java, which defines how a client may access a database. JDBC is the API for database access, and it works "in a relational way" - you query tables and get rows and columns back. Hibernate uses JDBC under the hood to fetch the data and later convert it to objects.)   
 [link for making it clear what the JDBC is](https://www.tutorialspoint.com/jdbc/images/jdbc-architecture.jpg)   
 
-ORM: (Object Relational Mapping; ORM allows you to use java objects as representation of a relational database. It maps the two concepts (object-oriented and relational)) [link to visually represent ORM](https://i.stack.imgur.com/seqRv.jpg)
+ORM: (Object Relational Mapping; ORM allows you to use java objects as representation of a relational database. It maps the two concepts (object-oriented and relational))  
+[link to visually represent ORM](https://i.stack.imgur.com/seqRv.jpg)
 
 ## Web backend
 
-- domain
-- parts of the URL
-- endpoint
-- HTTP
+- domain (Domain names are used to identify one or more IP addresses. For example, the domain name microsoft.com represents about a dozen IP addresses. Domain names are used in URLs to identify particular Web pages.)
+- parts of the URL (protocol such as http; domain name such as www.google.com; directory such as /bence/; filename and extension such as bence.html) [link](http://sagargola.com/wp-content/uploads/2017/02/Understanding-URL-Elements-of-URL-Secure-URL.png)
+- endpoint (Communication endpoint, the entity on one end of a transport layer connection)
+- HTTP (Hypertext Transfer Protocol; HTTP works as a request-response protocol between a client and server.)
   - Requests
   - Response
-  - methods
+  - methods (get, post) [link](https://www.w3schools.com/tags/ref_httpmethods.asp)
 - headers
-- body
+- body (let's say body in JSON format)
 - templates
+  
+Whenever your web browser fetches a file (a page, a picture, etc) from a web server, it does so using HTTP - that's "Hypertext Transfer Protocol".  HTTP is a request/response protocol, which means your computer sends a request for some file (e.g. "Get me the file 'home.html'"), and the web server sends back a response ("Here's the file", followed by the file itself)
 
 ### REST Web backend
 
-- understand what is an API and can use it
-- use JSON objects
-- understand the concept of serialization
-- able to use Postman
+- understand what is an API and can use it (if you give me a specification, then i can do it :))
+- use JSON objects [link for my own postman](https://ibb.co/c1kEpn)
+- understand the concept of serialization (didn't even learn during Green Fox)
+- able to use Postman (yes, i can show it as well)
+
+Serilization: (Java provides a mechanism, called object serialization where an object can be represented as a sequence of bytes that includes the object's data as well as information about the object's type and the types of data stored in the object. After a serialized object has been written into a file, it can be read from the file and deserialized that is, the type information and bytes that represent the object and its data can be used to recreate the object in memory.)  
+[link](https://www.tutorialspoint.com/java/java_serialization.htm)
 
 ## Endpoint tests
 
