@@ -1,7 +1,7 @@
 # FinalExamBPapp
 This repository is to support Bence's final exam at Green Fox Academy.
 
-# Foundation requirements
+# Foundation requirements ------------------------
 
 ## Accomplishments
 
@@ -42,7 +42,7 @@ The student, on their own, is able to:
  [link for unit test](https://github.com/greenfox-academy/daily-checkout/blob/BPappTests/src/test/java/com/greenfox/checkout/services/DateUtilTest.java)
  
  
- # Backend Orientation Exam Competencies
+ # Backend Orientation Exam Competencies ------------------------
 
 ## Interfaces and abstract classes
 
@@ -144,15 +144,16 @@ Serilization: (Java provides a mechanism, called object serialization where an o
 - able to make difference between unit test and integration test (yes, i will explain it)
 - create endpoint test with the help of a mock server [link](https://github.com/expertneo/corsac-orientation-exam/blob/master/spacetransporter/src/test/java/com/greenfox/spacetransporter/SpacetransporterApplicationTests.java)
      
-Unit test: (A unit test is a test written by the programmer to verify that a relatively small piece of code is doing what it is intended to do.)
+Unit test: (A unit test is a test written by the programmer to verify that a relatively small piece of code is doing what it is intended to do.)   
+
 Integration test: (An integration test is done to demonstrate that different pieces of the system work together. Integration tests cover whole applications, and they require much more effort to put together. They usually require resources like database instances and hardware to be allocated for them.)
   
-  # Final exam requirements
+  # Final exam requirements ------------------------
 
 ## Accomplishments
 
- -  Significant contribution to the team project
- -  High understanding of project structure
+ -  Significant contribution to the team project (you can judge on that :))
+ -  High understanding of project structure (I believe I do understand the project structure)
 
 ## Skills
 
@@ -160,36 +161,38 @@ Integration test: (An integration test is done to demonstrate that different pie
 
 The student, on their own, is able to:
  -  Use git:
-     -  Resolving a simple merge conflict
-     -  Creating a pull request
- -  Understand API documentation
- -  Understand token based authorization
- -  Refactor code:
-     -  Create meaningful names for methods, classes and variables
-     -  Split bigger functions to smaller ones
-     -  Separate functionalities to different files
+     -  Resolving a simple merge conflict (I resolved the JSLACK implementation conflicts)
+     -  Creating a pull request [link to pull requests](https://github.com/greenfox-academy/daily-checkout/pulls)
+ -  Understand API documentation (Slack API used and understood more or less) [link to api documentation](https://api.slack.com/)
+ -  Understand token based authorization (I am the master of tokens!) [link to the tokens](https://github.com/greenfox-academy/daily-checkout/blob/BPappTests/src/main/java/com/greenfox/checkout/controllers/SlackController.java)
+ -  Refactor code: [link to one of my refactor commit](https://github.com/greenfox-academy/daily-checkout/commit/b397657c182539f8614208cf279f81471e44e5a1)
+     -  Create meaningful names for methods, classes and variables (Árnika always made us change varaible names :D)
+     -  Split bigger functions to smaller ones (also split functions into smaller ones during the project.)
+     -  Separate functionalities to different files (for example, DateUtil service has only datum based functions, CheckoutService has only checkout related functions)
      -  Point out code smells
- -  Understand base concept of hosting
- -  Deployment and continuous integration
- -  Using design patterns
- -  Integration testing
- -  Differentiate between backend and frontend (client) functionality
+ -  Understand base concept of hosting [link for my heroku](https://greenfoxcheckoutdev.herokuapp.com/)
+ -  Deployment and continuous integration (jenkins + AWS; VSTS + Azure; Heroku)
+ -  Using design patterns (for example MVC design Pattern; I am always using it)
+ -  Integration testing [link for the tests during project phase](https://github.com/greenfox-academy/daily-checkout/tree/BPappTests/src/test/java/com/greenfox/checkout)
+ -  Differentiate between backend and frontend (client) functionality (Please explain this question)
 
 
 **Choose one from below:**
 
-### Backend
+### Backend ----------- This is what I choose
 
- -  Use async structures:
+ -  Use async structures: (I have never heard of this during Green Fox Academy)
      -  Writing functions that are taking and calling callbacks
      -  Determining the calling order in nested callbacks
- -  Authentication:
-     -  Handle authentication
-     -  Handle token based authorization
+ -  Authentication: (Google authentication + token based authentication in checkout application)
+     -  Handle authentication [google auth](https://github.com/greenfox-academy/daily-checkout/blob/BPappTests/src/main/java/com/greenfox/checkout/configurations/SecurityConfig.java)
+     -  Handle token based authorization (Slack uses token based authorization)
  -  Database
-     - Using complex data structures
-     - Understanding and using table connections
-     - Understanding migration 
+     - Using complex data structures (Have two tables, CheckoutTable & TeamCheckoutTable)
+     - Understanding and using table connections (no connection in between those tables)
+     - Understanding migration (never used migration during the project phase, but as far as I know, filling up the DB during the orientation exam was considered as migration)
+
+Relational database: (A relational database is a collection of data items organized as a set of formally-described tables from which data can be accessed or reassembled in many different ways without having to reorganize the database tables.)
 
 ### Fullstack
 
