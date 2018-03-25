@@ -16,14 +16,14 @@ This repository is to support Bence's final exam at Green Fox Academy.
 The student, on their own, is able to:
 
  -  Use the command line:
-     -  Traversing directories
-     -  Moving, copying, creating, deleting files
-     -  Passing command line arguments to commands
+     -  Traversing directories (cd c:/Bence/Lol; cd ..)
+     -  Moving, copying, creating, deleting files (mv root/bence.txt root/gfacademy/; cp to copy; rm to detele, touch to create)
+     -  Passing command line arguments to commands (???)
  -  Use git:
-     -  Commit, add, push, pull
-     -  Review other's code
- -  Follow indentation and coding styleguides in their code
- -  Create variables and methods on a given specification
+     -  Commit, add, push, pull (OK, check [checkout repo](https://github.com/greenfox-academy/daily-checkout/))
+     -  Review other's code (OK, check [checkout repo](https://github.com/greenfox-academy/daily-checkout/))
+ -  Follow indentation and coding styleguides in their code (check any code, I followed google styleguide)
+ -  [Create variables and methods on a given specification](http://s2.quickmeme.com/img/cf/cf538c211f84e60777be2e390691dde58737d3378b3f16d18557ba09deeb9275.jpg)
  -  Use conditions and loops:
      -  Filtering
      -  Finding elements or index
