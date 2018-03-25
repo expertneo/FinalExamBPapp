@@ -69,16 +69,16 @@ The student, on their own, is able to:
 
 ## Backend Framework
 
-- creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core
-- understanding the used components
-- find documentation and usage examples
-- understanding the framework and the application as web backend
-- able to create examples for competencies of web backend
-- using a templating system e.g. Thymeleaf/Razor Pages
-- able to use the framework's special Dependency Injection system
-- usage of the framework's IoC container
-- able to alter basic configurations
-- understanding the flow of HTTP
+- creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core (can check any code in my repo)
+- understanding the used components (yes, i understand the components)
+- find documentation and usage examples (i am able to do it)
+- understanding the framework and the application as web backend (Frameworks are large bodies (usually many classes) of prewritten code to which you add your own code to solve a problem in a specific domain.)
+- able to create examples for competencies of web backend (not sure what the question is)
+- using a templating system e.g. Thymeleaf/Razor Pages [controller link](https://github.com/greenfox-academy/daily-checkout/blob/BPappTests/src/main/java/com/greenfox/checkout/controllers/mentor/MainController.java)  [thymeleaf link](https://github.com/greenfox-academy/daily-checkout/blob/BPappTests/src/main/resources/templates/mentor/aggregateSummaryView.html)
+- able to use the framework's special Dependency Injection system (autowire, refer to the checkout code)
+- usage of the framework's IoC container[link](https://github.com/greenfox-academy/daily-checkout/blob/BPappTests/src/test/java/com/greenfox/checkout/configurations/TestConfig.java)  [link for Inversion of Control](https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/beans.html)
+- able to alter basic configurations (have never touched bean configuration file)
+- understanding the flow of HTTP [link for external description](https://stackify.com/spring-mvc/)
 
 ## Data persistance
 
