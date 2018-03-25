@@ -5,8 +5,10 @@ This repository is to support Bence's final exam at Green Fox Academy.
 
 ## Accomplishments
 
- -  [Multiple daily commits on the latest week](http://s2.quickmeme.com/img/cf/cf538c211f84e60777be2e390691dde58737d3378b3f16d18557ba09deeb9275.jpg)
-[My repo](https://github.com/expertneo)
+ -  [Multiple daily commits on the latest week](http://s2.quickmeme.com/img/cf/cf538c211f84e60777be2e390691dde58737d3378b3f16d18557ba09deeb9275.jpg)  
+   
+     
+[My repo](https://github.com/expertneo)  
 [Checkout project repo](https://github.com/greenfox-academy/daily-checkout/)
 
 ## Skills
