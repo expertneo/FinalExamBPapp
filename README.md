@@ -190,7 +190,7 @@ The student, on their own, is able to:
  -  Database
      - Using complex data structures (Have two tables, CheckoutTable & TeamCheckoutTable)
      - Understanding and using table connections (no connection in between those tables)
-     - Understanding migration (never used migration during the project phase, but as far as I know, filling up the DB during the orientation exam was considered as migration)
+     - Understanding migration [link](https://flywaydb.org/getstarted/firststeps/gradle) (never used migration during the project phase, but as far as I know, filling up the DB during the orientation exam was considered as migration)
 
 Relational database: (A relational database is a collection of data items organized as a set of formally-described tables from which data can be accessed or reassembled in many different ways without having to reorganize the database tables.)
 
