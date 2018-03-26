@@ -183,7 +183,7 @@ The student, on their own, is able to:
 
  -  Use async structures: (I have never heard of this during Green Fox Academy)
      -  Writing functions that are taking and calling callbacks
-     -  Determining the calling order in nested callbacks
+     -  Determining the calling order in nested callbacks (If the answer is dependent on other resources (e.g REST API), and if you want to call other resources with the result of the first one, obvoiusly the second one has to wait until the firsts answer is arrived.)
  -  Authentication: (Google authentication + token based authentication in checkout application)
      -  Handle authentication [google auth](https://github.com/greenfox-academy/daily-checkout/blob/BPappTests/src/main/java/com/greenfox/checkout/configurations/SecurityConfig.java)
      -  Handle token based authorization (Slack uses token based authorization)
