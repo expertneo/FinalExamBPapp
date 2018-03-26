@@ -122,7 +122,7 @@ ORM: (Object Relational Mapping; ORM allows you to use java objects as represent
 - HTTP (Hypertext Transfer Protocol; HTTP works as a request-response protocol between a client and server.)
   - Requests
   - Response
-  - methods (get, post) [link](https://www.w3schools.com/tags/ref_httpmethods.asp)
+  - methods (get, post (head, put, delete, options, connect)) [link](https://www.w3schools.com/tags/ref_httpmethods.asp)
 - headers
 - body (let's say body in JSON format)
 - templates
