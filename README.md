@@ -169,7 +169,7 @@ The student, on their own, is able to:
      -  Create meaningful names for methods, classes and variables (Árnika always made us change varaible names :D)
      -  Split bigger functions to smaller ones (also split functions into smaller ones during the project.)
      -  Separate functionalities to different files (for example, DateUtil service has only datum based functions, CheckoutService has only checkout related functions)
-     -  Point out code smells
+     -  Point out code smells (unused variables, not closed resources, bat patterns)
  -  Understand base concept of hosting [link for my heroku](https://greenfoxcheckoutdev.herokuapp.com/)
  -  Deployment and continuous integration (jenkins + AWS; VSTS + Azure; Heroku)
  -  Using design patterns (for example MVC design Pattern; I am always using it)
